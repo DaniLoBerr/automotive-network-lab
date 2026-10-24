@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# C and C++ builds
+*.o
+*.out
+build/
+
+# Wireshark captures: only loopback (lo) captures are committed, and only under captures/.
+# Captures of real interfaces (wlo1) carry MAC addresses, IPs and DNS queries: never here.
+*.pcap
+*.pcapng
+!captures/*.pcapng
