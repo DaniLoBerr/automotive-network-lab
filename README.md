@@ -7,4 +7,4 @@ A small lab to practise testing automotive network software:
 - a simulated CAN rest-bus, with a test for message periods;
 - and CI that runs everything on every change.
 
-Work in progress: built ticket by ticket, through the issues and pull requests of this repo.
+**Paused.** Nothing has been built yet, and no work is planned for now. If it resumes, it will be built ticket by ticket, through the issues and pull requests of this repo.
